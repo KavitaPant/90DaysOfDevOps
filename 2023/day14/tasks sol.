@@ -21,3 +21,7 @@ print(tuple1)
 
 set1 = {"apple", "banana", "orange", "kiwi",20,65}
 print(set1)
+
+#dictionary
+fav_tools = { 1:"Linux", 2:"Git", 3:"Docker", 4:"Kubernetes", 5:"Terraform", 6:"Ansible", 7:"Chef"}
+print("My favourite tool is:",fav_tools[4])
